@@ -14,3 +14,11 @@ export const brToNumber = (str:string):number => {
         throw error
     }
 }
+
+export const sayHello = ():string => {
+    return '  _  __                _      _    ____ ___ \n' +
+        ' | |/ /__ _ _ ____   _(_)    / \\  |  _ |_ _|\n' +
+        ' | \' // _` | \'__\\ \\ / | |   / _ \\ | |_) | | \n' +
+        ' | . | (_| | |   \\ V /| |  / ___ \\|  __/| | \n' +
+        ' |_|\\_\\__,_|_|    \\_/ |_| /_/   \\_|_|  |___|\n'
+}

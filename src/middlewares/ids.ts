@@ -1,5 +1,4 @@
 import {Request, Response, NextFunction} from 'express';
-import {siteAr, siteBr} from "../constants";
 
 /**
  * Middleware that validates the correct presence of the ids to filter
