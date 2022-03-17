@@ -27,4 +27,9 @@ Is mandatory to use the following configuration;
 
 Here, you have a collection link, ready to import in postman: https://www.getpostman.com/collections/cd50d0f55737581be531
 
+## Production
+The project is also deployed in Heroku, you can refer to this host to use both endpoints as well: https://karviwh.herokuapp.com/karvi
+
+In case you need support, just let me know.
+
 
